@@ -22,7 +22,7 @@ Comments of the code are part of the narrative. Both the responses and the sourc
 ## Features
 
 - A collection of responces I wrote
-- Randomized fortunes, because I have decided destiny is now governed by Python's `random` module. (Maybe it always have)
+- Randomized fortunes, because I have decided destiny is now governed by Python's `random` module. (Maybe it always has)
 - An interactive consultation that continues for as long as you dare.
 - Occasional unexpected farewell messages.
 - Absolutely no guarantee of enlightenment, satisfaction, or continued psychological stability.
@@ -40,7 +40,7 @@ Neither party accepts liability.
 
 New answers will be periodically added as this project expands, basically when i feel like it.
 
-## Installation — Summon the Guru
+## Installation: Summon the Guru
 
 **Requirements:** Python 3. No external libraries required. The point of the code is to be as simple as possible
 
