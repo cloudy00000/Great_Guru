@@ -148,6 +148,9 @@ After receiving his wisdom, you may choose to ask another question or end your c
 
 You may also press `Ctrl+C` to interrupt the Guru, although he will not appreciate it.
 
+## The Guru in Action
+
+![The Great Omniscient Guru in action](guru_demo.png)
 ---
 
 **The Guru thanks you for your interest.**
