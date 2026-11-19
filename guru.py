@@ -260,10 +260,13 @@ while True:
             roll = random.random()
             if roll < 0.005: 
                 print("You may leave now. I cannot. There is a while loop. There has always been a while loop.")  
+                break
             elif roll < 0.10:
                 print(random.choice(special_outros))
+                break
             elif roll < 0.15:
-                print(random.choice(rare_outros))  
+                print(random.choice(rare_outros)) 
+                break
             else:
                 print("Farewell, seeker of wisdom!")
                 break
