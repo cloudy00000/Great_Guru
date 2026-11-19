@@ -17,8 +17,6 @@ Will it be comforting? That was never part of the agreement.
 
 This is first and foremost, a creative writing project masquerading as a Python program. The intention is to create a little character that lives in your terminal, always available for consultation, though not necessarily qualified to provide it.
 
-Both the responses and the source code are intended to be enjoyed as creative writing.
-
 Comments of the code are part of the narrative. Both the responses and the source code are intended to be enjoyed as creative writing. You are therefore encouraged not only to run the program but also to read its source code.
 
 ## Features
@@ -29,23 +27,6 @@ Comments of the code are part of the narrative. Both the responses and the sourc
 - Occasional unexpected farewell messages.
 - Absolutely no guarantee of enlightenment, satisfaction, or continued psychological stability.
 
-## Installation and Usage
-
-**Requirements:** Python 3. No external libraries required. The point of the code is to be as simple as possible
-
-Clone the repository or download `guru.py`. There are no other files this is pretty straightforward.
-
-Run the program from your terminal:
-
-```bash
-python3 guru.py
-```
-
-The Guru will request your inquiry. Type whatever question troubles your mortal existence and press Enter.
-
-After receiving his wisdom, you may choose to ask another question or end your consultation.
-
-You may also press `Ctrl+C` to interrupt the Guru, although he will not appreciate it.
 
 ## Important Disclaimer
 
@@ -61,9 +42,17 @@ New answers will be periodically added as this project expands, basically when i
 
 ## Installation — Summon the Guru
 
-**Requirements:** Python 3. No external libraries required.
+**Requirements:** Python 3. No external libraries required. The point of the code is to be as simple as possible
 
-Download or clone this repository and keep it somewhere permanent on your computer.
+Clone the repository or download `guru.py`. There are no other files this is pretty straightforward.
+
+Run the program from your terminal:
+
+```bash
+python3 guru.py
+```
+
+But
 
 The Guru was never meant to be confined to a directory. Follow the instructions below to summon him from anywhere in your terminal using a single command:
 
@@ -152,6 +141,12 @@ Once configured, open any terminal window and type:
 ```bash
 guru
 ```
+
+The Guru will request your inquiry. Type whatever question troubles your mortal existence and press Enter.
+
+After receiving his wisdom, you may choose to ask another question or end your consultation.
+
+You may also press `Ctrl+C` to interrupt the Guru, although he will not appreciate it.
 
 ---
 
